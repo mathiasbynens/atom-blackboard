@@ -1,0 +1,16 @@
+{
+	"name": "blackboard",
+	"theme": "syntax",
+	"version": "0.0.0",
+	"private": true,
+	"description": "TextMate’s Blackboard theme, ported to Atom.",
+	"repository": "https://github.com/mathiasbynens/atom-blackboard",
+	"bugs": {
+		"url": "https://github.com/mathiasbynens/atom-blackboard/issues"
+	},
+	"homepage": "https://github.com/mathiasbynens/atom-blackboard",
+	"license": "MIT",
+	"engines": {
+		"atom": ">0.60.0"
+	}
+}
