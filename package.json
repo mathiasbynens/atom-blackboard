@@ -1,9 +1,9 @@
 {
 	"name": "blackboard",
 	"theme": "syntax",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"private": true,
-	"description": "TextMate’s Blackboard theme, ported to Atom.",
+	"description": "TextMate’s Blackboard syntax theme, ported to Atom.",
 	"repository": "https://github.com/mathiasbynens/atom-blackboard",
 	"bugs": {
 		"url": "https://github.com/mathiasbynens/atom-blackboard/issues"
