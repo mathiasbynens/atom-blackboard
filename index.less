@@ -1,17 +1,17 @@
-.editor, .editor .gutter {
+atom-text-editor, :host, atom-text-editor .gutter, :host .gutter {
 	background-color: #0C1021;
 	color: #F8F8F8;
 }
 
-.editor.is-focused .cursor {
+atom-text-editor.is-focused .cursor, :host.is-focused .cursor {
 	border-color: rgba(255, 255, 255, 0.65);
 }
 
-.editor.is-focused .selection .region {
+atom-text-editor.is-focused .selection .region, :host.is-focused .selection .region {
 	background-color: #253B76;
 }
 
-.editor.is-focused .line-number.cursor-line-no-selection, .editor.is-focused .line.cursor-line {
+atom-text-editor.is-focused .line-number.cursor-line-no-selection, :host.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line, :host.is-focused .line.cursor-line {
 	background-color: rgba(255, 255, 255, 0.06);
 }
 
