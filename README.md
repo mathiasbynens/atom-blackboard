@@ -1,4 +1,4 @@
-# Blackboard theme for Atom
+# [Blackboard theme for Atom](https://atom.io/packages/blackboard)
 
 TextMate’s Blackboard syntax theme, ported to [Atom](https://atom.io/).
 
