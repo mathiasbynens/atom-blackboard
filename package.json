@@ -11,6 +11,6 @@
 	"homepage": "https://github.com/mathiasbynens/atom-blackboard",
 	"license": "MIT",
 	"engines": {
-		"atom": ">0.60.0"
+		"atom": ">0.189.0"
 	}
 }
